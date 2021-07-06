@@ -1,0 +1,11 @@
+{
+  "base_url": "/jupyter/default/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/sagemaker-user",
+  "password": false,
+  "pid": 12,
+  "port": 8888,
+  "secure": false,
+  "token": "",
+  "url": "http://0.0.0.0:8888/jupyter/default/"
+}
